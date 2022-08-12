@@ -1,6 +1,6 @@
 #+TITLE: コーチング入門 修了レポート
 #+AUTHOR: 早川 剛（ハヤカワ ツヨシ）
-#+OPTIONS: toc:4 num:4 author:nil creator:nil ^:nil timestamp:nil
+#+OPTIONS: toc:4 num:4 H:4 author:nil creator:nil ^:nil timestamp:nil
 # (setq org-html-validation-link nil)
 
 # Hi-lock: (("【コーチング】" (0 (quote 11-my-face) prepend)))
