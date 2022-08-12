@@ -1,4 +1,4 @@
-#+OPTIONS: toc:4 num:4 author:t creator:nil ^:nil timestamp:nil
+#+OPTIONS: toc:t num:t H:4 author:t creator:nil ^:nil timestamp:nil
 # (setq org-html-validation-link nil)
 # Hi-lock: (("【コーチング】" (0 (quote 11-my-face) prepend)))
 # Hi-lock: (("※[0-9]*" (0 (quote 3-my-face) prepend)))
