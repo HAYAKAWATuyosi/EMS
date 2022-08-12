@@ -214,7 +214,7 @@
 実際に手を動かせる課題があることで、
 関係の構築が進むと期待しています。
 
-[[./EMS_coarching_report/奥山真司_20121213_戦略の階層を個人向けに修正_地政学を英国で学んだ.jpg]]
+[[./coarching08/report/images/Dr.Okuyama_seven-layers.jpg]]
 **** 与太話、命名「梨下村塾」！
 
 そんな思いがあるので、吉田松陰先生の松下村塾になぞらえて、「梨下村塾」と名付けてみました。
@@ -226,7 +226,7 @@
   - 音も同じ「リカ」です。
   - もちろん、それらも意識した命名です。
 
-[[./images/nashi.jpg]]
+[[./coarching08/report/images/nashi.jpg]]
 
 （画像は右のサイトより拝借しました。https://www.city.kuki.lg.jp/smph/kurashi/nougyou/nousanbutsu/nashi.html）
 
