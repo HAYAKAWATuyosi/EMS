@@ -1,12 +1,11 @@
-#+TITLE: コーチング入門 修了レポート
-#+AUTHOR: 早川 剛（ハヤカワ ツヨシ）
-#+OPTIONS: toc:4 num:4 H:4 author:nil creator:nil ^:nil timestamp:nil
+#+OPTIONS: toc:4 num:4 author:t creator:nil ^:nil timestamp:nil
 # (setq org-html-validation-link nil)
-
 # Hi-lock: (("【コーチング】" (0 (quote 11-my-face) prepend)))
 # Hi-lock: (("※[0-9]*" (0 (quote 3-my-face) prepend)))
 # Hi-lock: (("^.*\\(?:^※\\).*$" (0 (quote 4-my-face) prepend)))
 # Hi-lock: (("行動宣言" (0 (quote 1-my-face) prepend)))
+#+TITLE: コーチング入門 修了レポート
+#+AUTHOR: 早川 剛（ハヤカワ ツヨシ）
 
 # 括弧の使い方 「」 "" 『』
 # ※の番号付け
