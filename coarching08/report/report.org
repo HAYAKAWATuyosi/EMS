@@ -1,4 +1,6 @@
-#+OPTIONS: toc:t num:5 author:nil creator:nil ^:nil timestamp:nil
+#+TITLE: コーチング入門 修了レポート
+#+AUTHOR: 早川 剛（ハヤカワ ツヨシ）
+#+OPTIONS: toc:4 num:4 author:nil creator:nil ^:nil timestamp:nil
 # (setq org-html-validation-link nil)
 
 # Hi-lock: (("【コーチング】" (0 (quote 11-my-face) prepend)))
@@ -8,6 +10,7 @@
 
 # 括弧の使い方 「」 "" 『』
 # ※の番号付け
+
 
 * リフレクション、学び・変化
 ** 【コーチング】事始め
@@ -214,7 +217,7 @@
 実際に手を動かせる課題があることで、
 関係の構築が進むと期待しています。
 
-[[./coarching08/report/images/Dr.Okuyama_seven-layers.jpg]]
+[[./images/Dr.Okuyama_seven-layers.jpg]]
 **** 与太話、命名「梨下村塾」！
 
 そんな思いがあるので、吉田松陰先生の松下村塾になぞらえて、「梨下村塾」と名付けてみました。
@@ -226,7 +229,7 @@
   - 音も同じ「リカ」です。
   - もちろん、それらも意識した命名です。
 
-[[./coarching08/report/images/nashi.jpg]]
+[[./images/nashi.jpg]]
 
 （画像は右のサイトより拝借しました。https://www.city.kuki.lg.jp/smph/kurashi/nougyou/nousanbutsu/nashi.html）
 
